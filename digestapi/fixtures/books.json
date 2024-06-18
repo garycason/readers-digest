@@ -1,0 +1,24 @@
+[
+  {
+    "model": "digestapi.book",
+    "pk": 1,
+    "fields": {
+      "title": "The Goldfinch",
+      "author": "Donna Tartt",
+      "isbn_number": "9780316055444",
+      "cover_image": "https://imgs.search.brave.com/IVzaU1yW5lRto4WWspVPAG7WdgYHttqUKRJ7NCVDpqw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/aGFjaGV0dGVib29r/Z3JvdXAuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE3LzA2/Lzk3ODAzMTYwNTU0/MzcuanBnP3c9NDE2",
+      "user": 1
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 2,
+    "fields": {
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "isbn_number": "9780198815518",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554970027i/41551816.jpg",
+      "user": 1
+    }
+  }
+]
